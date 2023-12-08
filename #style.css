@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    background-color: #ecf4d6;
+    height: 200px;
+    align-self: center;
+    width: 100%;
+}
+
+/*principal*/
+.container_{
+    display: flex;
+    flex-direction: row;   
+}
